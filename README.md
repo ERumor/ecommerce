@@ -33,10 +33,10 @@ The goal of the project is to create a shopping platform for remote work. It has
 
 ## Application show:
 
-| <img src="https://github.com/ERumor/ecommerce/assets/57027295/16048fc0-5980-4c34-b6fb-97c11147beda" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/f59ba21c-92c4-4400-87a8-bf829e5c8f1b" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/4d877d99-23f3-4068-a0a9-2ba6aae5d3d0" width="250"/> |
+| <img src="https://github.com/ERumor/ecommerce/assets/57027295/70ffb8a2-9013-49db-90c5-7ebda73c73f9" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/f59ba21c-92c4-4400-87a8-bf829e5c8f1b" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/e7e542ad-12b7-49ad-aacb-2cdea089e27a" width="250"/> |
 | :---: | :---: | :---: |
 | Intro Screen  | Login Screen  | Signup Screen |
-|<img src="https://github.com/ERumor/ecommerce/assets/57027295/14fd0e6b-8a48-4e2b-af19-1789bbefa82d" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/562e2e31-1fd9-4d38-8ce5-fb99cb95fa56" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/842e8161-2c9d-4334-b14b-13fcb3aa5217" width="250"/> |
+|<img src="https://github.com/ERumor/ecommerce/assets/57027295/7df72f38-6d0d-4933-a9d1-2569a1953ac7" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/562e2e31-1fd9-4d38-8ce5-fb99cb95fa56" width="250"/> | <img src="https://github.com/ERumor/ecommerce/assets/57027295/842e8161-2c9d-4334-b14b-13fcb3aa5217" width="250"/> |
 | Home Screen   | Developer Workspace Screen | Orders Screen |
 
 
