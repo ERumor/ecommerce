@@ -6,7 +6,7 @@
 
 Remote Working Store. Commercial App for selling items needed for remote working.
 
-The goal of the project is to create a shopping platform for remote work. It has an introductory screen and other features such as a user interface for login and registration, a central home screen for workspaces, trending colelctions, popular items, new arrivals, cart synchronization with the Dart Frog server (in the future), category browsing, search and order tracking features.
+The goal of the project is to create a shopping platform for remote work. It has an introductory screen and other features such as a user interface for login and registration, a central home screen for workspaces, trending collections, popular items, new arrivals, cart synchronization with the Dart Frog server (in the future), category browsing, search and order tracking features.
 
 ## Documentation
 
